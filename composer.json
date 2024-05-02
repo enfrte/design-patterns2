@@ -1,0 +1,15 @@
+{
+    "name": "me/patterns",
+    "autoload": {
+        "psr-4": {
+            "Me\\Patterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "enfrte",
+            "email": "leon.forte.fi@gmail.com"
+        }
+    ],
+    "require": {}
+}
